@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Mobile_app_controle_gastos" parent="Theme.Material3.DayNight">
+        <!-- cor do texto do menu -->
+        <item name="actionMenuTextColor">#FFFFFF</item>
+        <!-- estilo do overflow menu -->
+        <item name="actionOverflowMenuStyle">@style/MyOverflowMenu</item>
+    </style>
+</resources>
